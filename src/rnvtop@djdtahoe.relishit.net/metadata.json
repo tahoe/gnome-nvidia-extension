@@ -10,7 +10,7 @@
   ],
   "name": "NVIDIA GPU Stats Tool",
   "settings-schema": "org.gnome.shell.extensions.nvidiautil",
-  "uuid": "nvidiautil@ethanwharris",
-  "url": "https://github.com/ethanwharris/gnome-nvidia-extension",
+  "uuid": "rnvtop@djdtahoe.relishit.net",
+  "url": "https://github.com/tahoe/gnome-nvidia-extension",
   "version": 14
 }
