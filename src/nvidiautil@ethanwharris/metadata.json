@@ -4,7 +4,9 @@
   "shell-version": [
     "45",
     "46",
-    "47"
+    "47",
+    "48",
+    "49"
   ],
   "name": "NVIDIA GPU Stats Tool",
   "settings-schema": "org.gnome.shell.extensions.nvidiautil",
