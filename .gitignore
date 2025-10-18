@@ -2,3 +2,4 @@
 # SPDX-FileCopyrightText: Contributors to the gnome-nvidia-extension project.
 
 *.code-workspace
+*.zip
